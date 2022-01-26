@@ -1,2 +1,3 @@
 # JavaScript
- Códigos em JavaScript
+
+Vários exercícios em JavaScript.
